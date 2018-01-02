@@ -1,2 +1,4 @@
-The Git command which monkeys can understand.
-add: register changes with index
+The Git command which monkeys can understand.  
+
+add: register changes with index.  
+commit: record the index.  
