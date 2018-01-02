@@ -1,2 +1,3 @@
-The Git command which monkeys can understand.
-add: register changes with index
+The Git command which monkeys can understand.  
+add: register changes with index.  
+pull: get contents of remote repository.  
