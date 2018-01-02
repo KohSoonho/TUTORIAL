@@ -5,7 +5,5 @@ add: register changes with index.
 commit: record the index.  
 
 
-add: register changes with index.  
-
 pull: get contents of remote repository.  
 
