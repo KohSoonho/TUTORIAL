@@ -28,12 +28,5 @@ commit: record the index.
 
 
 
-
-pull: get contents of remote repository.
-
-  
-
-
-
-Mama call a doctor and doctor say
-"No more monkey jumping on the bed!"
+five little monkey jumping on the bed, one fall out and bump his head!
+Mama call a doctor and doctor say"No more monkey jumping on the bed!"
