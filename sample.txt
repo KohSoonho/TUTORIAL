@@ -1,22 +1,14 @@
 
 ===================================================
-
 =  The Git command which monkeys can understand.  =
-
 ===================================================
-
-
 
 add: register changes with index.  
 commit: record the index.  
-
 pull: get contents of remote repository.
-  
 
 five little monkey jumping on the bed, 
-
 one fall out and bump his head!
-
 
 Mama call a doctor and doctor say
 "No more monkey jumping on the bed!"
